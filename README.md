@@ -14,4 +14,7 @@ Linguagem utilizada | Descrição do Projeto | Ferramenta
 
 - [x] Ao executar o `__main__`, o menu aparece conforme a tela abaixo:
 
-<img width="457" alt="Menu programa 1" src="https://user-images.githubusercontent.com/98350733/213193505-be2aa3e1-5282-4930-9ee1-0c7f1cfac517.png">
+     <img width="457" alt="Menu programa 1" src="https://user-images.githubusercontent.com/98350733/213193505-be2aa3e1-5282-4930-9ee1-0c7f1cfac517.png">
+
+- [x] Escolhendo a opção número 1, obtém-se:
+
